@@ -1,0 +1,27 @@
+{
+  "name": "jest-jsdom",
+  "version": "1.0.0",
+  "description": "showing how to test canvas with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C5m7b4/canvas-test-with-jest.git"
+  },
+  "keywords": [
+    "jest",
+    "canvas",
+    "javascript"
+  ],
+  "author": "C5m7b4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/C5m7b4/canvas-test-with-jest/issues"
+  },
+  "homepage": "https://github.com/C5m7b4/canvas-test-with-jest#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
